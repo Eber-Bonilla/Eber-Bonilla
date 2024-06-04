@@ -38,11 +38,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Eber%20Bonilla&theme=radical" alt="Layout with last medium posts"  />
-</div>
-
-###
