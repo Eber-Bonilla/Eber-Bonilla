@@ -77,14 +77,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Eber Velásquez">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Eber%20Vel%C3%A1squez&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/Eber-Bonilla/count.svg?"  />
 </div>
 
