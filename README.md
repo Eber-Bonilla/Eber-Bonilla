@@ -72,7 +72,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Eber-Bonilla/Eber-Bonilla/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Eber-Bonilla/Eber-Bonilla/snake.svg" alt="Snake animation" />
 
 ###
 
