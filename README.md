@@ -70,12 +70,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Eber-Bonilla/Eber-Bonilla/snake.yml" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Eber-Bonilla/count.svg?"  />
 </div>
